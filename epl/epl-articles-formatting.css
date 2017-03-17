@@ -1,0 +1,430 @@
+.epl_article_format .container .epl_article_cover_photo {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.epl_article_format .container .epl_article_cover_photo_features {
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-size: 100% 100%;
+  	width: 100%;
+}
+
+.epl_article_format .container .epl_article_cover_photo_credit {
+	text-align: center;
+	font-size: 0.8em;
+	color: rgb(130,130,130);
+}
+
+.epl_article_format .container .epl_article_description {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 70%;
+}
+
+.epl_article_format .container .epl_article_description .epl_art_h6 {
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: 500;
+	text-align: center;
+}
+
+.epl_article_format .container .epl_article_description .epl_art_h6 .epl_art_link {
+	color: #E03A3E;
+}
+
+.epl_article_format .container .epl_article_description .epl_art_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 2.4em;
+}
+
+.epl_article_format .container .epl_article_description .epl_art_h5 {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1.1em;
+	line-height: 135%;
+}
+
+.epl_article_format .container .epl_article_description .epl_art_p {
+	text-align: center;
+	font-family: 'Jura',serif;
+	font-size: 1.0em;
+}
+
+.epl_article_format .container .epl_article_description .epl_art_h3 {
+	text-align: center;
+	font-family: 'Rokkitt',serif;
+	font-size: 1.8em;
+}
+.epl_article_format .container .epl_article_description .epl_art_h3 .author_id_link {
+	color: black;
+}
+
+
+.epl_article_format .container .epl_article_writing {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.epl_article_format .container .epl_article_writing .epl_paragraph_text {
+	font-family: 'Martel', serif;
+	font-weight: 300;
+	font-size: 1.3em;
+	line-height: 175%;
+}
+
+.epl_article_format .container .epl_article_writing .each_epl_paragraph {
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+
+.epl_article_format .container .epl_article_writing .each_epl_image {
+	margin-top: 4%;
+	margin-bottom: 4%;
+	width: 80%;
+	height: 70%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.epl_article_format .container .epl_article_writing .each_epl_image_player_photo {
+	margin-top: 4%;
+	margin-bottom: 4%;
+	width: 35%;
+	height: 35%;
+	margin-left: 32.5%;
+	margin-right: 32.5%;
+}
+
+.epl_article_format .container .epl_article_description .btnz_share_facebook {
+    display: block;
+    padding: 10px 15px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border:none;
+    background-color: #ececec;
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFF;
+    background-color: #3b5998;
+    text-align: center;
+}
+
+.epl_article_format .container .epl_article_description .btnz_share_facebook .share_facebook_icon {
+	width: 8%;
+	height: 8%;
+}
+ 
+.epl_article_format .container .epl_article_description .btnz_share_facebook:hover {
+    background-color: rgb(85,123,201);
+}
+
+.epl_article_format .container .epl_article_description .btnz_share_twitter {
+    display: block;
+    padding: 10px 15px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border:none;
+    background-color: #ececec;
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFF;
+    background-color: #55acee;
+    text-align: center;
+}
+
+.epl_article_format .container .epl_article_description .btnz_share_twitter .tweet_on_twitter_icon {
+	width: 8%;
+	height: 8%;
+}
+.epl_article_format .container .epl_article_description .btnz_share_twitter:hover {
+	background-color: rgb(96,213,255);
+}
+
+.authors_credit .container .row .col-md-8 .author_credit_section .author_photo {
+	width: 26%;
+	height: 30%;
+	margin-left: 37%;
+	margin-right: 37%;
+	margin-bottom: 3%;
+}
+
+.authors_credit .container .row .col-md-8 .author_credit_section .article_author_caption .article_author_h6 {
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: 500;
+	text-align: center;
+}
+
+.authors_credit .container .row .col-md-8 .author_credit_section .article_author_caption .article_author_h6 .link_to_more_authors_work {
+	color: black;
+}
+
+.authors_credit .container .row .col-md-8 .author_credit_section .article_author_caption .article_author_p {
+	font-family: 'Martel', sans-serif;
+	font-size: 1.2em;
+	font-weight: 500;
+	text-align: center;
+}
+
+.authors_credit .container .row .col-md-8 .author_credit_section .article_author_caption .article_author_h5 {
+	text-align: center;
+	font-family: 'Martel',serif;
+	font-size: 1.2em;
+}
+
+.video_container {
+    position: relative;
+    padding-bottom: 50%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.video_container iframe,
+.video_container object,
+.video_container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 95%;
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+
+.epl_article_format .container .epl_article_writing .vine_embed_to_epl_article {
+	width: 80%;
+	margin-left: 10%;
+	margin-right:10%;
+}
+
+.epl_article_format .container .epl_article_writing .outside_quote {
+	border-left: thick double rgb(65,65,65);
+	padding-left: 2%;
+	width: 80%;
+	margin-left: 10%;
+	margin-right:10%;
+	margin-bottom: 4%;
+}
+
+.epl_article_format .container .epl_article_writing .outside_quote .outside_quote_writing {
+	font-family: sans-serif;
+	font-weight: 200;
+	font-size: 1.3em;
+	width: 80%;
+	margin-left: 10%;
+	margin-right:10%;
+}
+
+.epl_article_format .container .epl_article_writing .each_epl_paragraph_header {
+	text-align: center;
+	font-family: 'Rokkitt', serif;
+	font-weight: 200;
+	font-size: 1.5em;
+}
+
+.epl_article_format .container .epl_article_writing .epl_article_photo_features {
+	width: 155%;
+	margin-left: -27.5%;
+	margin-right: -27.5%;
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-size: 100% 100%;
+}
+
+@media only screen and (max-width : 900px) {
+	.epl_article_format .container .epl_article_description .btnz_share_facebook {
+		width: 50%;
+		margin-left: 25%;
+		margin-right: 25%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_twitter {
+		width: 50%;
+		margin-left: 25%;
+		margin-right: 25%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_facebook .share_facebook_icon {
+		width: 12%;
+		height: 12%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_twitter .tweet_on_twitter_icon {
+		width: 12%;
+		height: 12%;
+	}
+	
+	.epl_article_format .container .epl_article_writing .outside_quote .outside_quote_writing {
+		font-size: 1.3em;
+	}
+	
+	.epl_article_format .container .epl_article_cover_photo_features {
+		width: 110%;
+		margin-left: -5%;
+		margin-right: -5%;
+	}
+
+	.epl_article_format .container .epl_article_writing .epl_article_photo_features {
+		width: 150%;
+		margin-left: -25%;
+		margin-right: -25%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-size: 100% 100%;
+	}
+	
+}
+
+@media only screen and (max-width : 600px) {
+	.epl_article_format .container .epl_article_description .btnz_share_facebook {
+		width: 50%;
+		margin-left: 25%;
+		margin-right: 25%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_twitter {
+		width: 50%;
+		margin-left: 25%;
+		margin-right: 25%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_facebook .share_facebook_icon {
+		width: 15%;
+		height: 15%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_twitter .tweet_on_twitter_icon {
+		width: 15%;
+		height: 15%;
+	}
+
+	.epl_article_format .container .epl_article_writing .outside_quote .outside_quote_writing {
+		font-size: 1.1em;
+	}
+	
+	.epl_article_format .container .epl_article_cover_photo {
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 60%;
+	}
+	
+	.epl_article_format .container .epl_article_cover_photo_features {
+		width: 110%;
+		margin-left: -5%;
+		margin-right: -5%;
+	}
+	
+	.epl_article_format .container .epl_article_writing .epl_article_photo_features {
+		width: 150%;
+		margin-left: -25%;
+		margin-right: -25%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-size: 100% 100%;
+	}
+}
+
+@media only screen and (max-width : 480px) {
+	.epl_article_format .container .epl_article_description .epl_art_h4 {
+		font-size: 1.8em;
+	}
+	.epl_article_format .container .epl_article_description .epl_art_h5 {
+		font-size: 1.0em;
+	}
+	.epl_article_format .container .epl_article_cover_photo {
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 30%;
+		
+	}
+	
+	.epl_article_format .container .epl_article_writing {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	
+	.epl_article_format .container .epl_article_writing .epl_paragraph_text {
+		font-family: 'Martel', serif;
+		font-weight: 300;
+		font-size: 1em;
+		line-height: 155%;
+	}
+
+	.epl_article_format .container .epl_article_writing .each_epl_paragraph {
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+
+	.epl_article_format .container .epl_article_writing .each_epl_image {
+		margin-top: 4%;
+		margin-bottom: 4%;
+		width: 95%;	
+		height: 100%;
+		margin-left: 2.5%;
+		margin-right: 2.5%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_facebook {
+		width: 60%;
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_twitter {
+		width: 60%;
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_facebook .share_facebook_icon {
+		width: 24%;
+		height: 24%;
+	}
+	
+	.epl_article_format .container .epl_article_description .btnz_share_twitter .tweet_on_twitter_icon {
+		width: 24%;
+		height: 24%;
+	}
+	
+	.epl_article_format .container .epl_article_writing .vine_embed_to_epl_article {
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 80%;
+	}
+	
+	.epl_article_format .container .epl_article_writing .outside_quote .outside_quote_writing {
+		font-size: 0.8em;
+	}
+	
+	.epl_article_format .container .epl_article_cover_photo_features {
+		width: 110%;
+		margin-left: -5%;
+		margin-right: -5%;
+	}
+	
+	.epl_article_format .container .epl_article_writing .epl_article_photo_features {
+		width: 135%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-size: 100% 100%;
+	}
+}
+
+#disqus_thread {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}

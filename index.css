@@ -1,0 +1,1009 @@
+.publication_title {
+	font-family: 'Russo One', sans-serif;
+	font-size: 4.5em;
+	text-align: center;
+	color: rgb(25,25,25);
+}
+
+.publication_title .the_sports_whorl_main_header {
+	color: rgb(25,25,25);
+	/**text-shadow: 2.0px 2.0px #FDBE11;**/
+	text-decoration: none;
+}
+
+#google_adsense {
+	width: 95%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+}
+
+.special_event_banner {
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+	height: 20%;
+	margin-top: 2%;
+}
+
+nav {
+    height: 40px;
+    width: 100%;
+    background: rgb(245,245,245);
+    font-size: 1.3em;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Rokkitt', serif;
+    font-weight: 300;
+    position: relative;
+    border-bottom: 3px solid rgba(100,100,100,0.3);
+		-webkit-box-shadow: 0 6px rgba(200,200,200,0.6);
+	  	-moz-box-shadow: 0 6px rgba(200,200,200,0.6);
+	  	box-shadow: 0 6px 2px rgba(200,200,200,0.6);
+}
+
+nav ul {
+    padding: 0;
+    margin: 0 auto;
+    width: 600px;
+    height: 40px;
+}
+
+nav li {
+    display: inline;
+    float: left;
+}
+
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+    *zoom: 1;
+}
+
+nav a {
+    color: rgb(50,50,50);
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 40px;
+    text-decoration: none;
+    text-shadow: none;
+}
+
+nav li a {
+    border-right: 2px solid rgb(200,200,200);
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+}
+nav li:last-child a {
+    border-right: 0;
+}
+
+nav #epl_nav_link:hover {
+	color: rgb(255,255,255);
+    background-color:  rgb(255, 102, 0);
+    text-decoration: none;
+    transition: all 400ms ease-in-out;
+}
+
+nav #nfl_nav_link:hover {
+	color: rgb(255,255,255);
+    background-color: #FFB612;
+    text-decoration: none;
+    transition: all 400ms ease-in-out;
+}
+
+nav #nba_nav_link:hover {
+	color: rgb(255,255,255);
+    background-color: #94BEE5;
+    text-decoration: none;
+    transition: all 400ms ease-in-out;
+}
+
+nav #mlb_nav_link:hover {
+	color: rgb(255,255,255);
+    background-color: #00A398;
+    text-decoration: none;
+    transition: all 400ms ease-in-out;
+}
+
+nav #rugwc_nav_link:hover {
+	color: rgb(255,255,255);
+    background-color: #798EF3;
+    text-decoration: none;
+    transition: all 400ms ease-in-out;
+}
+
+nav #podcast_nav_link:hover {
+	background-color: rgb(212,0,30);
+	color: rgb(217,209,167);
+    text-decoration: none;
+    transition: all 400ms ease-in-out;
+}
+
+nav #contributors_nav_link:hover {
+	color: rgb(255,255,255);
+    background-color: #A8A9AD;
+    text-decoration: none;
+    transition: all 400ms ease-in-out;
+}
+
+nav a#pull {
+    display: none;
+}
+
+.sport_section_link {
+	color: #E03A3E;
+	text-decoration: none;
+}
+
+.sport_section_link:hover {
+	color: #E03A3E;
+}
+
+/* Main feature story CSS. */
+.main_feature .container .row .span12 .feature_article .feature_article_image {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	height: 50%;
+	box-shadow: 10px 10px 30px 20px silver inset;
+}
+
+.feature_article_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+	color: #E03A3E;
+}
+
+.feature_article_p_date {
+	text-align: center;
+	font-family: 'Jura',serif;
+	font-size: 1.2em;
+}
+
+
+.feature_article_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 2.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.feature_article_h5 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-family: 'Jura',serif;
+	font-size: 1.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+}
+
+.feature_article_p {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1.2em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.feature_article_hr {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	border-color: black;
+}
+
+
+/* MORE FEATURES CSS */
+.more_features .container .row .col-md-4 .more_features_article_1 .more_features_article_1_image {
+	margin-top: 3%;
+	width: 80%;
+	height: 225px;
+	margin-left: 10%;
+	margin-right: 10%;
+	box-shadow: 10px 10px 30px 20px silver inset;
+}
+
+.more_features .container .row .col-md-4 .more_features_article_2 .more_features_article_2_image {
+	margin-top: 3%;
+	width: 80%;
+	height: 225px;
+	margin-left: 10%;
+	margin-right: 10%;
+	box-shadow: 10px 10px 30px 20px pink inset;
+}
+
+.more_features .container .row .col-md-4 .more_features_article_3 .more_features_article_3_image {
+	margin-top: 3%;
+	width: 80%;
+	height: 225px;
+	margin-left: 10%;
+	margin-right: 10%;
+	box-shadow: 10px 10px 30px 20px pink inset;
+}
+
+.more_features .container .row .col-md-4 .more_features_article_1 .more_features_article_caption .more_features_article_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+	color: #E03A3E;
+}
+.more_features .container .row .col-md-4 .more_features_article_2 .more_features_article_caption .more_features_article_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+	color: #E03A3E;
+}
+.more_features .container .row .col-md-4 .more_features_article_3 .more_features_article_caption .more_features_article_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+	color: #E03A3E;
+}
+
+.more_features .container .row .col-md-4 .more_features_article_1 .more_features_article_caption .more_features_article_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 1.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.more_features .container .row .col-md-4 .more_features_article_2 .more_features_article_caption .more_features_article_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 1.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.more_features .container .row .col-md-4 .more_features_article_3 .more_features_article_caption .more_features_article_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 1.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.more_features .container .row .col-md-4 .more_features_article_1 .more_features_article_caption .more_features_article_h5 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-family: 'Jura',serif;
+	font-size: 1.2em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+}
+.more_features .container .row .col-md-4 .more_features_article_2 .more_features_article_caption .more_features_article_h5 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-family: 'Jura',serif;
+	font-size: 1.2em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+}
+.more_features .container .row .col-md-4 .more_features_article_3 .more_features_article_caption .more_features_article_h5 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-family: 'Jura',serif;
+	font-size: 1.2em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+}
+
+.more_features .container .row .col-md-4 .more_features_article_1 .more_features_article_caption .more_features_article_p {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.more_features .container .row .col-md-4 .more_features_article_2 .more_features_article_caption .more_features_article_p {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.more_features .container .row .col-md-4 .more_features_article_3 .more_features_article_caption .more_features_article_p {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.contributors_hr {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	border-color: gray;
+}
+
+#feature_article_focus_header {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 2.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#contributors_focus_header {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 2.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#sports_logos_header #sports_logos_banner {
+	width: 60%;
+	height: 100px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.social_media {
+	background-color: rgb(245,240,230);
+	width: 100%;
+	padding-top: 5px;
+}
+
+.social_media .container .row .col-md-4 .sm_icons .sm_twitter {
+	height: 47px;
+	width: 20%;
+	margin-top: 10%;
+	margin-bottom: 2%;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+.social_media .container .row .col-md-4 .sm_icons .sm_facebook {
+	height: 47px;
+	width: 20%;
+	margin-top: 10%;
+	margin-bottom: 2%;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+.social_media .container .row .col-md-4 .sm_icons .sm_instagram {
+	height: 47px;
+	width: 20%;
+	margin-top: 10%;
+	margin-bottom: 2%;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+
+.social_media .container .row .col-md-4 .sm_icons .social_media_caption .sm_caption_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', serif;
+	font-size: 2.0em;
+}
+
+.social_media .container .row .col-md-6 .end_notes .footer_caption .footer_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', serif;
+	font-size: 1.5em;
+	margin-top: 5%;
+}
+.social_media .container .row .col-md-6 .end_notes .footer_caption .footer_h4 {
+	text-align: center;
+	font-family: 'Jura', serif;
+	font-size: 1.2em;
+}
+
+
+
+
+
+/* Contributors Section CSS */
+.contributors_focus .container .row .col-md-4 .contributor .contributor_photo {
+	margin-top: 3%;
+	width: 80%;
+	height: 250px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.contributors_focus .container .row .col-md-4 .contributor .contributor_caption .contributor_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+	color: #E03A3E;
+}
+.contributors_focus .container .row .col-md-4 .contributor .contributor_caption .contributor_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 1.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.contributors_focus .container .row .col-md-4 .contributor .contributor_caption .contributor_h5 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-family: 'Jura',serif;
+	font-size: 1.2em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+}
+.contributors_focus .container .row .col-md-4 .contributor .contributor_caption .contributor_p {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 0.8em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	color: #00A398;
+}
+
+.contributors_link_to_page {
+	color: #000;
+}
+
+.contributors_link_to_page:hover {
+	color: #000;
+}
+
+
+@media screen and (max-width: 990px) {
+	.publication_title {
+		font-family: 'Russo One', sans-serif;
+		font-size: 3.2em;
+		text-align: center;
+		color: rgb(25,25,25);
+	}
+	
+	#google_adsense {
+		width: 85%;
+		margin-left: 7.5%;
+		margin-right: 7.5%;
+	}
+
+    nav { 
+        height: auto;
+    }
+    nav ul {
+        width: 100%;
+        display: block;
+        height: auto;
+    }
+    nav li {
+        width: 50%;
+        float: left;
+        position: relative;
+    }
+    nav li a {
+        border-bottom: 1px solid rgb(100,100,100);
+        border-right: 1px solid rgb(100,100,100);
+    }
+    nav a {
+        text-align: left;
+        width: 100%;
+        text-indent: 25px;
+        text-shadow: none;
+    }
+    
+    /* MAIN FEATURE STORY CSS for 600px */
+    .main_feature .container .row .span12 .feature_article .feature_article_image {
+		margin-top: 5%;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 50%;
+		box-shadow: 10px 10px 30px 20px pink inset;
+	}
+	
+	.feature_article_h6 {
+		text-align: center;
+		font-family: 'Rokkitt', sans-serif;
+		font-size: 1.2em;
+		text-transform: uppercase;
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+		font-weight: 500;
+		color: #E03A3E;
+	}
+
+
+	.feature_article_h4 {
+		text-align: center;
+		font-family: 'Cinzel', serif;
+		font-weight: 400;
+		font-size: 1.5em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.feature_article_h5 {
+		text-align: center;
+		font-family: 'Rokkitt', sans-serif;
+		font-family: 'Jura',serif;
+		font-size: 1.0em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-weight: 500;
+	}
+
+	.feature_article_p {
+		text-align: center;
+		font-family: 'Martel', serif;
+		font-weight: 200;
+		font-size: 1.0em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.feature_article_hr {
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+		border-color: black;
+	}
+	
+	/* MORE FEATURES CSS */
+	.more_features .container .row .col-md-4 .more_features_article_1 .more_features_article_1_image {
+		margin-top: 3%;
+		width: 70%;
+		height: 300px;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+
+	.more_features .container .row .col-md-4 .more_features_article_2 .more_features_article_2_image {
+		margin-top: 3%;
+		width: 70%;
+		height: 300px;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+
+	.more_features .container .row .col-md-4 .more_features_article_3 .more_features_article_3_image {
+		margin-top: 3%;
+		width: 70%;
+		height: 300px;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	
+	
+	/* Contributors Section CSS */
+	.contributors_focus .container .row .col-md-4 .contributor .contributor_photo {
+		margin-top: 3%;
+		width: 50%;
+		height: 225px;
+		margin-left: 25%;
+		margin-right: 25%;
+	}
+	
+	.social_media .container .row .col-md-4 .sm_icons .sm_twitter {
+		height: 87px;
+	}
+	.social_media .container .row .col-md-4 .sm_icons .sm_facebook {
+		height: 87px;
+	}
+	.social_media .container .row .col-md-4 .sm_icons .sm_instagram {
+		height: 87px;
+	}
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+	.publication_title {
+		font-family: 'Russo One', sans-serif;
+		font-size: 3.2em;
+		text-align: center;
+		color: rgb(25,25,25);
+	}
+	
+	#google_adsense {
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	
+    nav { 
+        height: auto;
+    }
+    nav ul {
+        width: 100%;
+        display: block;
+        height: auto;
+    }
+    nav li {
+        width: 50%;
+        float: left;
+        position: relative;
+    }
+    nav li a {
+        border-bottom: 1px solid rgb(100,100,100);
+        border-right: 1px solid rgb(100,100,100);
+    }
+    nav a {
+        text-align: left;
+        width: 100%;
+        text-indent: 25px;
+        text-shadow: none;
+    }
+    
+    /* MAIN FEATURE STORY CSS for 600px */
+    .main_feature .container .row .span12 .feature_article .feature_article_image {
+		margin-top: 5%;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 50%;
+		box-shadow: 10px 10px 30px 20px pink inset;
+	}
+	
+	.feature_article_h6 {
+		text-align: center;
+		font-family: 'Rokkitt', sans-serif;
+		font-size: 1.2em;
+		text-transform: uppercase;
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+		font-weight: 500;
+		color: #E03A3E;
+	}
+
+
+	.feature_article_h4 {
+		text-align: center;
+		font-family: 'Cinzel', serif;
+		font-weight: 400;
+		font-size: 1.5em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.feature_article_h5 {
+		text-align: center;
+		font-family: 'Rokkitt', sans-serif;
+		font-family: 'Jura',serif;
+		font-size: 1.0em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-weight: 500;
+	}
+
+	.feature_article_p {
+		text-align: center;
+		font-family: 'Martel', serif;
+		font-weight: 200;
+		font-size: 1.0em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.feature_article_hr {
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+		border-color: black;
+	}
+	
+	/* MORE FEATURES CSS */
+	.more_features .container .row .col-md-4 .more_features_article_1 .more_features_article_1_image {
+		margin-top: 3%;
+		width: 80%;
+		height: 250px;
+		margin-left: 10%;
+		margin-right: 10%;
+		box-shadow: 10px 10px 30px 20px pink inset;
+	}
+
+	.more_features .container .row .col-md-4 .more_features_article_2 .more_features_article_2_image {
+		margin-top: 3%;
+		width: 80%;
+		height: 250px;
+		margin-left: 10%;
+		margin-right: 10%;
+		box-shadow: 10px 10px 30px 20px pink inset;
+	}
+
+	.more_features .container .row .col-md-4 .more_features_article_3 .more_features_article_3_image {
+		margin-top: 3%;
+		width: 80%;
+		height: 250px;
+		margin-left: 10%;
+		margin-right: 10%;
+		box-shadow: 10px 10px 30px 20px pink inset;
+	}
+}
+
+@media only screen and (max-width : 480px) {
+	.publication_title {
+		font-family: 'Russo One', sans-serif;
+		font-size: 2.2em;
+		text-align: center;
+		color: rgb(25,25,25);
+	}
+	
+	#google_adsense {
+		width: 60%;
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+	
+    nav {
+        border-bottom: 0;
+        background: rgb(240,240,240);
+    }
+    nav ul {
+        display: none;
+        height: auto;
+    }
+    nav a#pull {
+        display: block;
+        background: rgb(240,240,240);
+        width: 100%;
+        position: relative;
+        text-shadow: none;
+        font-size: 1.2em;
+    }
+    nav a#pull:hover {
+    	text-decoration: none;
+    	color: black;
+    }
+    nav a#pull:after {
+        content:"";
+        background: url('images/menu-drawers-dark.png') no-repeat;
+        width: 30px;
+        height: 30px;
+        display: inline-block;
+        position: absolute;
+        right: 15px;
+        top: 10px;
+    }
+    
+    /* MAIN FEATURE STORY CSS for 480px */
+    .main_feature .container .row .span12 .feature_article .feature_article_image {
+		margin-top: 5%;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 50%;
+		box-shadow: 10px 10px 30px 20px pink inset;
+	}
+	
+	.feature_article_h6 {
+		text-align: center;
+		font-family: 'Rokkitt', sans-serif;
+		font-size: 1.2em;
+		text-transform: uppercase;
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+		font-weight: 500;
+		color: #E03A3E;
+	}
+
+	.feature_article_h4 {
+		text-align: center;
+		font-family: 'Cinzel', serif;
+		font-weight: 400;
+		font-size: 1.5em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.feature_article_h5 {
+		text-align: center;
+		font-family: 'Rokkitt', sans-serif;
+		font-family: 'Jura',serif;
+		font-size: 1.0em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-weight: 500;
+	}
+
+	.feature_article_p {
+		text-align: center;
+		font-family: 'Martel', serif;
+		font-weight: 200;
+		font-size: 1.0em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.feature_article_hr {
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+		border-color: black;
+	}
+	
+	/* Contributors Section CSS */
+	.contributors_focus .container .row .col-md-4 .contributor .contributor_photo {
+		margin-top: 3%;
+		width: 50%;
+		height: 150px;
+		margin-left: 25%;
+		margin-right: 25%;
+	}
+	
+	#sports_logos_header #sports_logos_banner {
+		width: 90%;
+		height: 50px;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	
+	#feature_article_focus_header {
+		text-align: center;
+		font-family: 'Cinzel', serif;
+		font-weight: 400;
+		font-size: 2.0em;
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+}
+
+@media only screen and (max-width : 320px) {
+	.publication_title {
+		font-family: 'Russo One', sans-serif;
+		font-size: 1.25em;
+		text-align: center;
+		color: rgb(25,25,25);
+	}
+	
+	#google_adsense {
+		width: 50%;
+		margin-left: 25%;
+		margin-right: 25%;
+	}
+	
+	nav a#pull{
+		background: rgb(245,245,245);
+	}
+	
+    nav li {
+        display: block;
+        float: none;
+        width: 100%;
+    }
+    nav li a {
+        border-bottom: 1px solid rgb(100,100,100);
+        text-decoration: none;
+        text-shadow: none;
+    }
+    
+    /* MAIN FEATURE STORY CSS for 320px */
+    .main_feature .container .row .span12 .feature_article .feature_article_image {
+		margin-top: 5%;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 50%;
+		box-shadow: 10px 10px 30px 20px pink inset;
+	}
+
+	.feature_article_h6 {
+		text-align: center;
+		font-family: 'Rokkitt', sans-serif;
+		font-size: 1.2em;
+		text-transform: uppercase;
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+		font-weight: 500;
+		color: #E03A3E;
+	}
+	
+	.feature_article_h4 {
+		text-align: center;
+		font-family: 'Cinzel', serif;
+		font-weight: 400;
+		font-size: 1.5em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.feature_article_h5 {
+		text-align: center;
+		font-family: 'Rokkitt', sans-serif;
+		font-family: 'Jura',serif;
+		font-size: 1.0em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-weight: 500;
+	}
+
+	.feature_article_p {
+		text-align: center;
+		font-family: 'Martel', serif;
+		font-weight: 200;
+		font-size: 1.0em;
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.feature_article_hr {
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+		border-color: black;
+	}
+}
+
