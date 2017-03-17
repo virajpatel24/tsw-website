@@ -1,0 +1,90 @@
+.contributors_focus .container .row {
+	margin-bottom: 3%;
+	margin-top: 3%;
+}
+
+#podcast_header {
+	background-color: rgb(212,0,30);
+	color: rgb(217,209,167);
+	width: 70%;
+	padding: 15px;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	font-family: 'Rokkitt',sans-serif;
+	font-size: 3.4em;
+}
+
+#podcast_guest_header {
+	background-color: rgb(0,101,100);
+	color: rgb(217,209,167);
+	width: 70%;
+	padding: 15px;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	font-family: 'Rokkitt',sans-serif;
+	font-size: 3.4em;
+}
+
+
+.contributors_focus .row .col-md-4 .contributor_h6 .sport_page_link {
+	color: #E03A3E;
+}
+
+.contributors_focus .podcast_about {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1.3em;
+	line-height: 150%;
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 2%;
+}
+
+.contributors_focus .container .row .col-md-4 .contributor .contributor_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: 500;
+	color: #E03A3E;
+}
+
+.contributors_focus .container .row .col-md-4 .contributor .contributor_h6:hover {
+	color: #E03A3E;
+}
+
+.contributors_focus .container .row .col-md-4 .contributor .contributor_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 1.5em;
+}
+
+.contributors_focus .container .row .col-md-4 .contributor .contributor_h5 {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1.4em;
+	line-height: 150%;
+}
+
+.contributors_focus .container .row .col-md-4 .contributor .contributor_p {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-family: 'Jura',serif;
+	font-size: 1.1em;
+}
+
+.contributors_focus .row .col-md-4 .contributor .contributor_h4 .guest_link {
+	color: black;
+}
+
+@media only screen and (max-width : 480px) {
+	.contributors_focus .podcast_about {
+		font-size: 1.0em;
+	}
+}
