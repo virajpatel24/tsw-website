@@ -1,0 +1,131 @@
+.contributors_archive .container .row .col-md-8 .cont_arch .cont_arch_photo {
+	width: 40%;
+	height: 250px;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.contributors_archive .container .row .col-md-8 .cont_arch .cont_arch_caption .cont_arch_h6 {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+	color: #E03A3E;
+}
+
+.contributors_archive .container .row .col-md-8 .cont_arch .cont_arch_caption .cont_arch_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 1.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.contributors_archive .container .row .col-md-8 .cont_arch .cont_arch_caption .cont_arch_p {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-family: 'Jura',serif;
+	font-size: 1.2em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-weight: 500;
+}
+
+.contributors_archive .container .row .col-md-8 .cont_arch .cont_arch_caption .cont_arch_h5 {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1.0em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	color: black;
+	
+}
+
+/* ALL ARTICLES header */
+.cont_arch_all_articles_header {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 2.5em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.contributors_archive .container .row .col-md-6 .contributor_article .contributor_article_photo {
+	width: 70%;
+	height: 250px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.contributors_archive .container .row .col-md-6 .contributor_article .contributor_art_caption .contributor_art_h6 {
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: 500;
+	text-align: center;
+}
+.contributors_archive .container .row .col-md-6 .contributor_article .contributor_art_caption .contributor_art_h6 .cont_art_link {
+	color: #E03A3E;
+}
+
+.contributors_archive .container .row .col-md-6 .contributor_article .contributor_art_caption .contributor_art_h4 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: 400;
+	font-size: 2.0em;
+}
+
+.contributors_archive .container .row .col-md-6 .contributor_article .contributor_art_caption .contributor_art_h5 {
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-weight: 200;
+	font-size: 1.1em;
+	line-height: 140%;
+}
+
+.contributors_archive .container .row .col-md-6 .contributor_article .contributor_art_caption .contributor_art_p {
+	text-align: center;
+	font-family: 'Rokkitt', sans-serif;
+	font-family: 'Jura',serif;
+	font-size: 1.0em;
+}
+
+@media only screen and (max-width : 480px) {
+	#contributors_header {
+		font-family: 'Rokkitt',sans-serif;
+		font-size: 2.4em;
+		text-align: center;
+	}
+	.contributors_archive .container .row .col-md-8 .cont_arch .cont_arch_photo {
+		width: 70%;
+		height: 200px;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	.contributors_archive .container .row .col-md-8 .cont_arch .cont_arch_caption .cont_arch_h4 {
+		font-size: 1.8em;
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	.contributors_archive .container .row .col-md-6 .contributor_article .contributor_art_caption .contributor_art_h4 {
+		font-size: 1.8em;
+	}
+	.contributors_archive .container .row .col-md-6 .contributor_article .contributor_article_photo {
+		width: 74%;
+		height: 55%;
+		margin-left: 13%;
+		margin-right: 13%;
+	}
+}

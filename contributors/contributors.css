@@ -1,0 +1,12 @@
+.contributors_hr {
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	border-color: #A8A9AD;
+}
+
+#contributors_header {
+	font-family: 'Rokkitt',sans-serif;
+	font-size: 3.4em;
+	text-align: center;
+}
